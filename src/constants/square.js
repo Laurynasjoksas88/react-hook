@@ -1,0 +1,2 @@
+export const ADDSQUARE = "ADDSQUARE";
+export const REMOVESQUARE = "REMOVESQUARE";
